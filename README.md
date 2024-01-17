@@ -1,5 +1,7 @@
 K-Markov Decision Process (K-MDP)
 
+Presented at ICAPS 2020
+
 TABLE OF CONTENTS
  
 
