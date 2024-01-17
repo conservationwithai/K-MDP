@@ -1,7 +1,10 @@
 K-Markov Decision Process (K-MDP)
 
+<<<<<<< HEAD
 Presented at ICAPS 2020
 
+=======
+>>>>>>> 40e8ef6eaa0f339ae2edc85bf336aafd1c72ed8e
 TABLE OF CONTENTS
  
 
