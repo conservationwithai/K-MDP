@@ -1,20 +1,14 @@
 K-Markov Decision Process (K-MDP)
 
-<<<<<<< HEAD
 Presented at ICAPS 2020
 
 =======
->>>>>>> 40e8ef6eaa0f339ae2edc85bf336aafd1c72ed8e
 TABLE OF CONTENTS
  
 
 1. Requirements
 2. How to install the K-MDP package
 3. How to use the K-MDP package
-4. Case studies
-5. TODO
-6. Acknowledgements
-
 
 
 1.REQUIREMENTS
@@ -73,28 +67,5 @@ a*d K-MDP
 kmeans K-MDP
 
 [AbstractTransitions, AbstractRewards, StoSk, SktoS, AbstractPolicy, AbstractPolicyForOriginalMDP, gap, timeComputingKDMP, timeSolvingKMDP] = kmeansKMDP(K, Transition, Reward, discount, Q, V);
-
-
-
-
-4.TODO
-
-
-- MDP solver - independent.
-- Add the additional K-MDP algorithms into another branch.
-- Test it for MAC OS X.
-- Test it with Octave.
-- Add option to avoid gap computation (if the user only wants the K-MDP, not to compute statistics).
-
-
-5.ACKNOWLEDGEMENTS
-
-
-
-This is a joint work with Thomas Dietterich, Olivier Buffet and Iadine Chades.
-Special thanks to the Conservation Decisions Team in CSIRO.
-
-
-
 
 
